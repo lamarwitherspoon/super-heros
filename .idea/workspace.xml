@@ -58,7 +58,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sup/SuperHero.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -67,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/sup/Villian.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -124,6 +124,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -177,11 +178,12 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="103" />
     <option name="width" value="1108" />
     <option name="height" value="714" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -241,7 +243,7 @@
     <property name="SearchEverywhereHistoryKey" value="arr&#9;PSI&#9;JAVA://java.lang.reflect.Array&#10;coo&#9;FILE&#9;file://C:/Users/Student/IdeaProjects/chef/src/main/java/witherspoon/Cookingassparagus.java&#10;cook&#9;FILE&#9;file://C:/Users/Student/IdeaProjects/chef/src/main/java/witherspoon/Cookingassparagus.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537980789586" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537980845089" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/witherspoon/Main.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -398,12 +400,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536776366754</updated>
       <workItem from="1536776371876" duration="155554000" />
-      <workItem from="1537912933969" duration="5045000" />
+      <workItem from="1537912933969" duration="5682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160599000" />
+    <option name="totallyTimeSpent" value="161236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -637,13 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sup/Villian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sup/AntiHero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -662,6 +657,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sup/Villian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
         </state>
       </provider>
     </entry>
