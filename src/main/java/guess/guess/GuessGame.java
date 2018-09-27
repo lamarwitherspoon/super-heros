@@ -16,7 +16,7 @@ public  String p1;
 
 public void startgame(){
 
-    p1= new player1();
+//    p1= new player1();
 }
 
 }

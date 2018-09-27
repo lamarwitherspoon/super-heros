@@ -1,29 +1,14 @@
 package sup;
 
-public class Villian {
-
-    public class SuperHero {
-
-        public String name ;
-
-        public String[] villian = {"fire ", "water", "air", "earth",};
+public class Villian extends SuperHero {
 
 
+    public Villian(String name, String[] superpowers) {
+
+        super(name, superpowers);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+    }
 
 
 
@@ -41,3 +26,36 @@ public class Villian {
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,16 +1,16 @@
 package sup;
 
-public class AntiHero {
+
+public class AntiHero extends SuperHero {
 
 
 
-    public class SuperHero {
+    public AntiHero(String name, String[] superpowers ) {
 
-        public String name ;
-
-        public String[] hero = {"bullet proof shin", "flexible", "invisible", "can control minds",};
+        super(name, superpowers);
 
 
+    }
 
 
 
@@ -32,3 +32,5 @@ public class AntiHero {
 
 
 }
+
+

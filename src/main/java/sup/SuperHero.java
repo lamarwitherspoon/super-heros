@@ -4,9 +4,11 @@ import java.util.concurrent.locks.Lock;
 
 public class SuperHero {
 
- protected name ;
+ protected String name;
 
-public String[] superPower = {"teloport", "fly", "super-speed", "genius",};
+public String[] superPower;
+
+
 
 public SuperHero(String name, String[] superPowers){
 
@@ -14,25 +16,30 @@ public SuperHero(String name, String[] superPowers){
 
             this.superPower=superPowers;
 
-
-
- public String [] powers(){
-
-     return superPowers;
-    }
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
-}
+
+    public String printSuperPowers(){
+
+
+
+return printSuperPowers();
+
+
+
+   }
+
+ }
+
+
+
+
+
+
+
+
+
+
+
 

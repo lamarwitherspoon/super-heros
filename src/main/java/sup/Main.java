@@ -4,12 +4,20 @@ public class Main {
 
     public static void main(String[] args) {
 
+    Villian dark = new Villian("captaian ", new String[]{"frezze", "teloport"});
 
-        SuperHero superHero= new SuperHero();
-
-        System.out.println(SuperHero.;
+    AntiHero gray = new AntiHero("marvel", new String[]{"fire", "invisible"});
 
 
+
+//  SuperHero[] mighty = {Villian ,AntiHero};
+
+
+//        for (SuperHero d: mighty)
+//        {
+//            System.out.println(d.getClass().getSimpleName()+ "superpwer" + d.printSuperPowers());
+
+        }
 
 
 
@@ -26,4 +34,20 @@ public class Main {
 
     }
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

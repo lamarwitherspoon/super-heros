@@ -1,30 +1,30 @@
 package employee;
 
-public class HourlyEmployee {
-
-
-
-
-   private String firstName ;
-    private String lastName ;
-    private  int wage ;
-    private int hours;
-    private String title ;
-
-
-
-
-
-
-
-
-    public HourlyEmployee (String FirsrtName, String lastName, int wage, int hours, String title)
-    {
-        this.firstName=firstName;
-        this.lastName=lastName;
-        this.wage=wage;
-        this.hours=hours;
-        this.title=title;
+//public class HourlyEmployee {
+//
+//
+//
+//
+//   private String firstName ;
+//    private String lastName ;
+//    private  int wage ;
+//    private int hours;
+//    private String title ;
+//
+//
+//
+//
+//
+//
+//
+//
+//    public HourlyEmployee (String FirsrtName, String lastName, int wage, int hours, String title)
+//    {
+//        this.firstName=firstName;
+//        this.lastName=lastName;
+//        this.wage=wage;
+//        this.hours=hours;
+//        this.title=title;
 
 //
 //    public void setfirstName(String yo ){
@@ -159,4 +159,4 @@ public class HourlyEmployee {
 
 
 
-}}
+
